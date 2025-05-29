@@ -1,0 +1,5 @@
+
+Gurobi 12.0.2 (win64) logging started Thu May 22 08:52:59 2025
+
+Set parameter LogFile to value "instancias/Teste\I_6_2_S_1-9_3.txt.log"
+Set parameter TimeLimit to value 300
